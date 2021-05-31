@@ -7,4 +7,4 @@
 
 ![Overall Stats](https://github-readme-stats.vercel.app/api?username=xcatolin&count_private=true&show_icons=true&hide=contribs)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xcatolin&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xcatolin&layout=nord)
