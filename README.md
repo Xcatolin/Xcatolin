@@ -1,3 +1,3 @@
 ### Matheus Alexandre (Xcatolin)
 
-![Visitor](https://visitor-badge.laobi.icu/badge?page_id=xcatolin.massrecon)
+![Overall Stats](https://github-readme-stats.vercel.app/api?username=xcatolin&count_private=true&show_icons=true&hide=contribs)
