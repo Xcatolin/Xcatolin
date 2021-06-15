@@ -13,8 +13,7 @@ CTF Profiles:
 
 ![Arrexel](https://www.hackthebox.eu/badge/image/129918) 
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/NoScatolin.png" alt="TryHackMe">
-
+<img src="https://i.imgur.com/oBQtUha.png" alt="TryHackMe">
 
 ![Overall Stats](https://github-readme-stats.vercel.app/api?username=xcatolin&count_private=true&show_icons=true&hide=contribs&theme=nord)
 
