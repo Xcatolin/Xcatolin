@@ -7,7 +7,7 @@ I currently work as a InfoSec Analyst at a company, i like to play CTF's and hun
 
 You can contact me on:
 
-<a href="<https://www.linkedin.com/in/matheus-ab/>">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/matheus-ab/)
 
 CTF Profiles:
 
