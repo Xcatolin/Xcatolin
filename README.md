@@ -13,8 +13,8 @@ You can contact me on:
 
 CTF Profiles:
 
-![Arrexel](https://www.hackthebox.eu/badge/image/129918) 
+[<img src="https://i.imgur.com/lDjrqlR.png" height=90 />](https://app.hackthebox.eu/profile/129918)
 
-<img src="https://i.imgur.com/oBQtUha.png" alt="TryHackMe">
+[<img src="https://i.imgur.com/oBQtUha.png" height=60 />](https://app.hackthebox.eu/profile/129918)
 
 ![Overall Stats](https://github-readme-stats.vercel.app/api?username=xcatolin&count_private=true&show_icons=true&hide=contribs&theme=nord)
