@@ -4,7 +4,7 @@
 
 I'm a 22yo guy who's passionate about Offensive Security.
 
-I currently work as a Information Security Consultant, i like to play CTF's and hunt for bugs on my free time. I also write some articles and create some content at [MS Cyber Security](https://linktr.ee/mscybersec).
+I currently work as a Security Consultant, i like to play CTF's and hunt for bugs on my free time. I also write some articles and create some content at [MS Cyber Security](https://linktr.ee/mscybersec).
 
 
 You can contact me on:
