@@ -15,6 +15,6 @@ CTF Profiles:
 
 [<img src="https://i.imgur.com/lDjrqlR.png" height=86 />](https://app.hackthebox.eu/profile/129918)
 
-[<img src="https://i.imgur.com/oBQtUha.png" height=60 />](https://app.hackthebox.eu/profile/129918)
+[<img src="https://i.imgur.com/vNlsFZf.png" height=60 />](https://tryhackme.com/p/NoScatolin)
 
 ![Overall Stats](https://github-readme-stats.vercel.app/api?username=xcatolin&count_private=true&show_icons=true&hide=contribs&theme=nord)
