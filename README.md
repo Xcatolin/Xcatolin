@@ -11,10 +11,8 @@ You can contact me on:
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/matheus-ab/)
 
-CTF Profiles:
+<img src="http://www.hackthebox.eu/badge/image/129918" heigth=45 alt="Hack The Box"><br>
 
-[<img src="https://i.imgur.com/lDjrqlR.png" height=86 />](https://app.hackthebox.eu/profile/129918)
-
-[<img src="https://i.imgur.com/vNlsFZf.png" height=75 />](https://tryhackme.com/p/NoScatolin)
+[<img src="https://i.imgur.com/vNlsFZf.png" height=55 />](https://tryhackme.com/p/NoScatolin)
 
 ![Overall Stats](https://github-readme-stats.vercel.app/api?username=xcatolin&count_private=true&show_icons=true&hide=contribs&theme=nord)
