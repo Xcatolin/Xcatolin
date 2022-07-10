@@ -4,7 +4,7 @@
 
 I'm a 23yo guy who's passionate about Offensive Security.
 
-I currently work as a Security Consultant, i like to play CTF's and do some researches. I also write some articles and create some content at [Inja Security](https://injasec.blogspot.com/).
+I'm a 23 years old brazilian guy who's passionate about Offensive Security. Currently working as a consultant, doing mostly Penetration Tests for different companies worldwide. I also post some stuff at [Inja Security](https://injasec.blogspot.com/).
 
 
 You can contact me on:
