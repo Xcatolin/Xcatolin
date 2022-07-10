@@ -2,8 +2,6 @@
 
 ### Matheus Alexandre [Xcatolin]
 
-I'm a 23yo guy who's passionate about Offensive Security.
-
 I'm a 23 years old brazilian guy who's passionate about Offensive Security. Currently working as a consultant, doing mostly Penetration Tests for different companies worldwide. I also post some stuff at [Inja Security](https://injasec.blogspot.com/).
 
 
