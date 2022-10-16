@@ -1,8 +1,8 @@
 # ~# whoami
 
-### Matheus Alexandre [Xcatolin]
+### Matheus Alexandre (Xcatolin)
 
-I'm a 23 years old brazilian guy who's passionate about Offensive Security. Currently working as a consultant, doing mostly Penetration Tests for different companies worldwide. I also post some stuff at [Inja Security](https://injasec.blogspot.com/).
+I'm a 23 years old brazilian guy who's passionate about Offensive Security. Currently working as a consultant, doing mostly Penetration Tests for different companies worldwide. I also post some stuff at [Inja](https://xcatolin.github.io/injasec/).
 
 
 You can contact me on:
