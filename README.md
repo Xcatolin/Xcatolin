@@ -1,8 +1,6 @@
 # ~# whoami
 
-### Matheus Alexandre (Xcatolin)
-
-Hi there, I’m Matheus, a former military officer who’s passionate about offensive security, adversary tradecraft and emulation. Currently working as a security consultant, doing mostly penetration tests for different companies worldwide. I also write some stuff at [Inja](https://injasec.blogspot.com).
+I'm a former military officer and strict goal-driven person who's passionate about offensive security, adversary tradecraft and emulation. Currently working as a security consultant, doing mostly penetration tests for different companies worldwide. I also write some stuff at [Inja](https://injasec.blogspot.com).
 
 You can contact me on:
 
