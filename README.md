@@ -1,10 +1,8 @@
 # ~# whoami
 
-I'm a former military officer and strict goal-driven person who's passionate about offensive security, adversary tradecraft and emulation. Currently working as a security consultant, doing mostly penetration tests for different companies worldwide. I also write some stuff at [Inja](https://injasec.blogspot.com).
+I'm a former military officer and strict goal-driven person. Currently working as a security consultant, doing mostly penetration tests for different companies worldwide.
 
-<img src="https://raw.githubusercontent.com/Xcatolin/Xcatolin/main/certs.png" alt="Certifications"><br>
-
-You can contact me on:
+<img src="https://raw.githubusercontent.com/Xcatolin/Xcatolin/main/badges.png" alt="Badges"><br>
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/matheus-ab/) [<img src="https://img.shields.io/badge/twitter-%230077B5.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://mobile.twitter.com/xcatolin)
 
